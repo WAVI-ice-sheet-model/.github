@@ -16,4 +16,4 @@ TBC
 
 ## Get in touch
 
-Check our [discussions forum](community.md) for general purpose question around the WAVI ecosystem.
+Check our [discussions forum](https://github.com/orgs/WAVI-ice-sheet-model/discussions) for general purpose question around the WAVI ecosystem.
