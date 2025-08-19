@@ -1,4 +1,6 @@
-## Welcome to WAVI.jl
+<h1 align="center">
+  ☃️🏔️❄️ WAVI.jl ❄️🏔️☃️
+</h1>
 
 **WAVI.jl is an ice sheet model for everyone.**
 
