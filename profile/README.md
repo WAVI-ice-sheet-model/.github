@@ -12,7 +12,7 @@ WAVI.jl is designed to make ice sheet modelling more accessible to beginners and
 whilst including sufficient detail to be used for addressing cutting-edge research questions.
 
 ## Website
-TBC
+Read more about WAVI.jl and related software on our [website](https://wavi-ice-sheet-model.github.io/WAVI-website/).
 
 ## Get in touch
 
