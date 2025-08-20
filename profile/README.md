@@ -14,7 +14,7 @@ whilst including sufficient detail to be used for addressing cutting-edge resear
 This organisation hosts WAVI.jl, as well as other repositories which support running WAVI.
 
 ## Website
-Read more about WAVI.jl and related software on our [website](https://wavi-ice-sheet-model.github.io/WAVI-website/).
+Read more about WAVI.jl and related software on our [website](https://wavi-ice-sheet-model.github.io/WAVI-website/), or go straight into WAVI.jl's [documentation](https://rjarthern.github.io/WAVI.jl/).
 
 ## Get in touch
 
