@@ -11,6 +11,8 @@ the [British Antarctic Survey](https://www.bas.ac.uk/).
 WAVI.jl is designed to make ice sheet modelling more accessible to beginners and low-level users,
 whilst including sufficient detail to be used for addressing cutting-edge research questions.
 
+This organisation hosts WAVI.jl, as well as other repositories which support running WAVI.
+
 ## Website
 Read more about WAVI.jl and related software on our [website](https://wavi-ice-sheet-model.github.io/WAVI-website/).
 
