@@ -18,4 +18,4 @@ Read more about WAVI.jl and related software on our [website](https://wavi-ice-s
 
 ## Get in touch
 
-Check our [discussions forum](https://github.com/orgs/WAVI-ice-sheet-model/discussions) for general purpose question around the WAVI ecosystem.
+Check our [discussions forum](https://github.com/orgs/WAVI-ice-sheet-model/discussions) for general purpose question around the WAVI ecosystem, and if you need help!
